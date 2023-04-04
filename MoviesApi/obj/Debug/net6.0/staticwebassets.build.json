@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "LdNN15FkgSQss0eDI6fdfpqu76ZRU4VWune7+tsnm94=",
+  "Source": "MoviesApi",
+  "BasePath": "_content/MoviesApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MoviesApi\\wwwroot",
+      "Source": "MoviesApi",
+      "ContentRoot": "F:\\MoviesApi\\MoviesApi\\wwwroot\\",
+      "BasePath": "_content/MoviesApi",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
